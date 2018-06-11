@@ -6,7 +6,7 @@ Minimal theme for the rEFInd boot manager
 
 ## Installation
 
-1. Locate your rEFInd installation folder
+1. Locate your rEFInd installation folder [Windows](https://www.rodsbooks.com/refind/installing.html#windows), [Linux](https://www.rodsbooks.com/refind/installing.html#linux), [Mac OSX](https://www.rodsbooks.com/refind/installing.html#osx)
 
 2. Create a folder called `themes` inside it, if it doesn't already exist
 
