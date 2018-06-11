@@ -12,7 +12,7 @@ EVE V theme for the rEFInd boot manager
 
 3. Clone this repo into the `themes` folder
 
-4. Add `include themes/refind-ambience/theme.conf` to `refind.conf`
+4. Add `include themes/refind-eve-v/theme.conf` to `refind.conf`
 
 ### Windows Installation on the V ([Source](https://www.rodsbooks.com/refind/installing.html#windows))
 
